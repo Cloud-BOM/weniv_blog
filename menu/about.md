@@ -22,6 +22,7 @@
 ##Side Project
 .
 
+
 ##Education
 -Bachelor of Science in Computer Science
 
