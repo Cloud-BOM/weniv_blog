@@ -1,21 +1,26 @@
-# about
+# DevOps로 성장 중인 Cloud-BOM 입니다.
 
-* hello world a
-* hello world a
-* hello world a
+안녕하세요. DevOps로 커리어를 희망하는 도전자 김보민(Cloud-BOM) 입니다.여행을 다니며 다른 사람들을 만나는 것을 좋아합니다.인프라(시스템,서버 등)에 대해 관심이 많습니다.모르는 지식,기술에 대해 항상 배우려고 노력합니다.다소 느릴 수 있지만, 꾸준함이 더 중요하다고 믿습니다.어제보다 더 나은 사람이 되겠습니다. 
 
-법관이 중대한 심신상의 장해로 직무를 수행할 수 없을 때에는 법률이 정하는 바에 의하여 퇴직하게 할 수 있다. 타인의 범죄행위로 인하여 생명·신체에 대한 피해를 받은 국민은 법률이 정하는 바에 의하여 국가로부터 구조를 받을 수 있다.
+---
 
-행정권은 대통령을 수반으로 하는 정부에 속한다. 국가의 세입·세출의 결산, 국가 및 법률이 정한 단체의 회계검사와 행정기관 및 공무원의 직무에 관한 감찰을 하기 위하여 대통령 소속하에 감사원을 둔다.
+##Skills
+-Programming Languages: python
+-Operating Systems & Foundations: Linux, Git
+-Cloud Infrastructure: AWS
+-Containerization & Orchestration: Docker, Kubernetes
+-Infrastructure as Code (IaC) & Automation:Terraform, Ansible
+-Monitoring & Observability: Prometheus & Grafana, ELK Stack
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+---
 
-```python
-print('helllo world test')
-for i in range(10):
-    print(i)
-```
+##Side Project
+.
+
+##Education
+-Bachelor of Science in Computer Science
+    -*Academic Credit Bank System (ACBS), South Korea*
+-Bachelor of Business Administration (B.B.A.)
+    -*Korea National Open University (KNOU), South Korea*
+-Energy Big Data Analytics & EMS Operations Specialist Program
+    -*Korea Energy Management System Association (KEMSA)*
