@@ -4,7 +4,7 @@
 
 ---
 
-##Skills
+## Skills  
 -Programming Languages: python  
 -Operating Systems & Foundations: Linux, Git  
 -Cloud Infrastructure: AWS  
@@ -14,12 +14,12 @@
 
 ---
 
-##Side Project
+## Side Project
 .
 
 ---
 
-##Education
+## Education  
 -Bachelor of Science in Computer Science  
     -*Academic Credit Bank System (ACBS), South Korea*  
 -Bachelor of Business Administration (B.B.A.)  
