@@ -6,10 +6,15 @@
 
 ##Skills
 -Programming Languages: python
+
 -Operating Systems & Foundations: Linux, Git
+
 -Cloud Infrastructure: AWS
+
 -Containerization & Orchestration: Docker, Kubernetes
+
 -Infrastructure as Code (IaC) & Automation:Terraform, Ansible
+
 -Monitoring & Observability: Prometheus & Grafana, ELK Stack
 
 ---
@@ -19,8 +24,13 @@
 
 ##Education
 -Bachelor of Science in Computer Science
+
     -*Academic Credit Bank System (ACBS), South Korea*
+
 -Bachelor of Business Administration (B.B.A.)
+
     -*Korea National Open University (KNOU), South Korea*
+
 -Energy Big Data Analytics & EMS Operations Specialist Program
+
     -*Korea Energy Management System Association (KEMSA)*
